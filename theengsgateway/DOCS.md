@@ -11,7 +11,7 @@
 
 | Option                | Type    | Required | Description                                                                     |
 | --------------------- | ------- | -------- | ------------------------------------------------------------------------------- |
-| MQTT_HOST             | string  | Yes      | MQTT host address, i.e. the IP/hostname of your Moquitto Broker Add-on          |
+| MQTT_HOST             | string  | Yes      | MQTT host address, i.e. the IP/hostname of your Mosquitto Broker Add-on         |
 | MQTT_USERNAME         | string  | Yes      | MQTT username                                                                   |
 | MQTT_PASSWORD         | string  | Yes      | MQTT password                                                                   |
 | MQTT_PORT             | integer | Yes      | MQTT host port, defaults to `1883`                                              |
